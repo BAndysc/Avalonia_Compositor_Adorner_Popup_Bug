@@ -18,7 +18,7 @@ namespace Avalonia.TransformAdornerBug
                 .UsePlatformDetect()
                 .With(new AvaloniaNativePlatformOptions()
                 {
-                    //UseCompositor = false
+                    UseCompositor = false
                 })
                 .LogToTrace();
     }

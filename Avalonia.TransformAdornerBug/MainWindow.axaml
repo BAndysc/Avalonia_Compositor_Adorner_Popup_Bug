@@ -7,7 +7,7 @@
         x:Class="Avalonia.TransformAdornerBug.MainWindow"
         Title="Avalonia.TransformAdornerBug">
     <Canvas>
-        <Button Name="Button" Canvas.Left="100" Canvas.Top="100">Test</Button>
+        <Button Name="Button" Canvas.Left="50" Canvas.Top="100">Test</Button>
         <Panel Name="Panel" Canvas.Left="150" Canvas.Top="100"></Panel>
     </Canvas>
 </Window>
